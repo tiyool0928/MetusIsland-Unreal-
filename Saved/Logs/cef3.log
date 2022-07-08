@@ -42,3 +42,12 @@
 [0622/201414.528:WARNING:storage_block-inl.h(146)] Failed data load.
 [0622/201414.865:ERROR:entry_impl.cc(998)] Failed to save user data
 [0622/201414.865:ERROR:entry_impl.cc(998)] Failed to save user data
+[0701/155408.847:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[0701/155408.848:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0701/155409.159:WARNING:storage_block-inl.h(146)] Failed data load.
+[0701/155409.159:WARNING:storage_block-inl.h(146)] Failed data load.
+[0701/155409.159:WARNING:storage_block-inl.h(146)] Failed data load.
+[0701/155409.161:WARNING:storage_block-inl.h(146)] Failed data load.
+[0701/155409.161:WARNING:storage_block-inl.h(146)] Failed data load.
+[0701/155409.162:ERROR:entry_impl.cc(998)] Failed to save user data
+[0701/155409.162:ERROR:entry_impl.cc(998)] Failed to save user data

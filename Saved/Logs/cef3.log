@@ -51,3 +51,32 @@
 [0701/155409.161:WARNING:storage_block-inl.h(146)] Failed data load.
 [0701/155409.162:ERROR:entry_impl.cc(998)] Failed to save user data
 [0701/155409.162:ERROR:entry_impl.cc(998)] Failed to save user data
+[0717/131022.370:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0717/131022.371:ERROR:entry_impl.cc(1076)] No file for c1032606
+[0717/131022.371:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.371:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.371:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.371:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.371:ERROR:entry_impl.cc(1076)] No file for c103266e
+[0717/131022.371:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.371:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.371:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.371:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.371:ERROR:entry_impl.cc(1076)] No file for c10314c6
+[0717/131022.372:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.372:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/131022.376:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/135202.829:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0717/135203.379:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/135203.380:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/135203.380:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/135203.381:WARNING:storage_block-inl.h(146)] Failed data load.
+[0717/135203.382:ERROR:entry_impl.cc(998)] Failed to save user data
+[0717/135203.382:ERROR:entry_impl.cc(998)] Failed to save user data
+[0718/143638.884:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0718/143639.220:WARNING:storage_block-inl.h(146)] Failed data load.
+[0718/143639.222:WARNING:storage_block-inl.h(146)] Failed data load.
+[0718/143639.224:WARNING:storage_block-inl.h(146)] Failed data load.
+[0718/143639.225:WARNING:storage_block-inl.h(146)] Failed data load.
+[0718/143639.225:ERROR:entry_impl.cc(998)] Failed to save user data
+[0718/143639.225:ERROR:entry_impl.cc(998)] Failed to save user data

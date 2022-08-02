@@ -1,3 +1,15 @@
-2022/06/17-14:45:29.785 b28 Reusing MANIFEST G:/UnrealProject/Horror1/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/17-14:45:29.786 b28 Recovering log #4
-2022/06/17-14:45:29.786 b28 Reusing old log G:/UnrealProject/Horror1/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/07/26-16:27:50.778 1c54 Reusing MANIFEST G:/UnrealProject/MetusIsland-Unreal-/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/26-16:27:50.783 1c54 Recovering log #4
+2022/07/26-16:27:50.784 1c54 Reusing old log G:/UnrealProject/MetusIsland-Unreal-/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/07/26-16:34:56.893 a0c Level-0 table #8: started
+2022/07/26-16:34:56.899 a0c Level-0 table #8: 22517 bytes OK
+2022/07/26-16:34:56.901 a0c Delete type=0 #4
+2022/07/26-16:34:56.901 a0c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/26-16:34:56.901 a0c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x033\xab\xde\x1f\x03\x17xB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 219 : 1
+2022/07/26-16:34:56.902 a0c Compacting 1@1 + 1@2 files
+2022/07/26-16:34:56.905 a0c Generated table #9@1: 41 keys, 2364 bytes
+2022/07/26-16:34:56.905 a0c Compacted 1@1 + 1@2 files => 2364 bytes
+2022/07/26-16:34:56.907 a0c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/26-16:34:56.907 a0c Delete type=2 #5
+2022/07/26-16:34:56.907 a0c Delete type=2 #8
+2022/07/26-16:34:56.908 a0c Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x033\xab\xde\x1f\x03\x17xB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 219 : 1 .. (end); will stop at (end)

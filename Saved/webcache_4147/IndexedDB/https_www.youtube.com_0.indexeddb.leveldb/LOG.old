@@ -1,5 +1,3 @@
-2022/06/17-14:21:35.964 37c8 Reusing MANIFEST G:/UnrealProject/Horror1/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/17-14:45:22.061 ffc Level-0 table #5: started
-2022/06/17-14:45:22.067 ffc Level-0 table #5: 6574 bytes OK
-2022/06/17-14:45:22.069 ffc Delete type=0 #3
-2022/06/17-14:45:22.070 ffc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/06/17-14:45:29.785 b28 Reusing MANIFEST G:/UnrealProject/Horror1/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/17-14:45:29.786 b28 Recovering log #4
+2022/06/17-14:45:29.786 b28 Reusing old log G:/UnrealProject/Horror1/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
